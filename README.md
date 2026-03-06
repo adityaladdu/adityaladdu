@@ -1,4 +1,4 @@
-<h1 align="center">Aditya</h1>
+<h1 align="center">Aditya Sharma</h1>
 <p align="center">
 UI/UX Designer • Frontend Developer • CSD Student
 </p>
