@@ -31,7 +31,7 @@ Currently learning advanced frontend development.
 
 ### 📊 GitHub Stats
 
-<img src="" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityaladdu&theme=github_dark" />
 
 ---
 
