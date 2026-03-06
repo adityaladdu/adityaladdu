@@ -31,7 +31,7 @@ Currently learning advanced frontend development.
 
 ### 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himanshuk951&theme=github_dark" />
+<img src="" />
 
 ---
 
