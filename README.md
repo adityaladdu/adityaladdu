@@ -5,14 +5,14 @@ UI/UX Designer • Frontend Developer • CSD Student
 
 ---
 
-### 🧠 Designing Experiences, Not Just Interfaces.
+### Designing Experiences, Not Just Interfaces.
 
 I build clean, minimal, and user-focused digital experiences.  
 Currently learning advanced frontend development.
 
 ---
 
-### 🛠️ Tools I Use
+### Tools I Use
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,git,github" />
@@ -20,7 +20,7 @@ Currently learning advanced frontend development.
 
 ---
 
-### 📌 What I’m Working On
+### What I’m Working On
 
 - Personal Portfolio Website  
 - UI Case Studies  
@@ -29,12 +29,12 @@ Currently learning advanced frontend development.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityaladdu&theme=github_dark" />
 
 ---
 
-### 🌍 Let’s Connect
+### Let’s Connect
 
 Portfolio: Coming Soon  
